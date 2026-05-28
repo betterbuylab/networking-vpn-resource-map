@@ -1,9 +1,9 @@
-# Networking Vpn Resource Map
+# Networking & VPN Resource Map
 
-Maps mesh Wi-Fi, large-home routers, VPN for streaming, budget VPN scrutiny, and network troubleshooting paths.
+Better Buy Lab resource map for mesh Wi-Fi, routers, VPNs, streaming, privacy wording, device support, and networking decisions.
 
-**Site category hub:** [Better Buy Lab category hubs](https://www.betterbuylab.com/networking)  
-**Contact:** contact@betterbuylab.com
+**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/networking)
+**Central hub:** [better-buy-lab-resources](https://github.com/betterbuylab/better-buy-lab-resources)
 
 > Better Buy Lab is a product research and buying-guide publisher—not a retailer, price tracker, deal feed, warranty provider, manufacturer, or first-party test lab unless a specific page supports that claim. Product details, listings, and availability change; verify on retailer sites.
 
@@ -11,17 +11,15 @@ Maps mesh Wi-Fi, large-home routers, VPN for streaming, budget VPN scrutiny, and
 
 ## What this repository is
 
-- A scoped **buyer-fit map** for networking guides on Better Buy Lab.
-- Checklists and related-route docs—not a shopping catalog.
-- JSON maps in `data/` for maintainers.
+- Mesh Wi-Fi, large-home router, and VPN streaming decision maps.
+- Scoped documentation and JSON maps for maintainers and readers.
+- Contextual links to relevant Better Buy Lab guides only.
 
 ## What this repository is not
 
-- Not a price tracker, deal list, or affiliate push page.
-- Not a claim that Better Buy Lab hands-on tested every product listed.
-- Not an index of every Better Buy Lab URL—only this category cluster.
-
-[Listings change.](https://www.betterbuylab.com/verification-policy) See [Better Buy Lab methodology](https://www.betterbuylab.com/methodology) for how picks are framed.
+- Not a live shopping catalog, deal list, or affiliate push page.
+- Not a claim of hands-on lab testing unless a linked page explicitly supports it.
+- Not a comprehensive index of every Better Buy Lab URL outside this repo's scope.
 
 ---
 
