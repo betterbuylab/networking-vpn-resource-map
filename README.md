@@ -2,7 +2,8 @@
 
 Better Buy Lab resource map for mesh Wi-Fi, routers, VPNs, streaming, privacy wording, device support, and networking decisions.
 
-**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/networking)
+**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/)
+**Category hub:** [Better Buy Lab category hub](https://www.betterbuylab.com/networking)
 **Central hub:** [better-buy-lab-resources](https://github.com/betterbuylab/better-buy-lab-resources)
 
 > Better Buy Lab is a product research and buying-guide publisher—not a retailer, price tracker, deal feed, warranty provider, manufacturer, or first-party test lab unless a specific page supports that claim. Product details, listings, and availability change; verify on retailer sites.
