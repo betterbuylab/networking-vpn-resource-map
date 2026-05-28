@@ -1,0 +1,96 @@
+{
+  "guides": [
+    {
+      "path": "/networking",
+      "url": "https://www.betterbuylab.com/networking",
+      "pageType": "category"
+    },
+    {
+      "path": "/networking/best-mesh-wifi",
+      "url": "https://www.betterbuylab.com/networking/best-mesh-wifi",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/networking/best-routers-large-home",
+      "url": "https://www.betterbuylab.com/networking/best-routers-large-home",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/vpn",
+      "url": "https://www.betterbuylab.com/vpn",
+      "pageType": "category"
+    },
+    {
+      "path": "/vpn/best-vpn-streaming",
+      "url": "https://www.betterbuylab.com/vpn/best-vpn-streaming",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/vpn/best-cheap-vpn",
+      "url": "https://www.betterbuylab.com/vpn/best-cheap-vpn",
+      "pageType": "buying-guide"
+    }
+  ],
+  "productNotes": [
+    {
+      "path": "/reviews/asus-zenwifi-bq16-pro",
+      "url": "https://www.betterbuylab.com/reviews/asus-zenwifi-bq16-pro"
+    },
+    {
+      "path": "/reviews/asus-zenwifi-et9",
+      "url": "https://www.betterbuylab.com/reviews/asus-zenwifi-et9"
+    },
+    {
+      "path": "/reviews/cyberghost",
+      "url": "https://www.betterbuylab.com/reviews/cyberghost"
+    },
+    {
+      "path": "/reviews/eero-6",
+      "url": "https://www.betterbuylab.com/reviews/eero-6"
+    },
+    {
+      "path": "/reviews/eero-max-7",
+      "url": "https://www.betterbuylab.com/reviews/eero-max-7"
+    },
+    {
+      "path": "/reviews/expressvpn",
+      "url": "https://www.betterbuylab.com/reviews/expressvpn"
+    },
+    {
+      "path": "/reviews/mullvad",
+      "url": "https://www.betterbuylab.com/reviews/mullvad"
+    },
+    {
+      "path": "/reviews/nordvpn",
+      "url": "https://www.betterbuylab.com/reviews/nordvpn"
+    },
+    {
+      "path": "/reviews/private-internet-access",
+      "url": "https://www.betterbuylab.com/reviews/private-internet-access"
+    },
+    {
+      "path": "/reviews/proton-vpn",
+      "url": "https://www.betterbuylab.com/reviews/proton-vpn"
+    },
+    {
+      "path": "/reviews/surfshark-vpn",
+      "url": "https://www.betterbuylab.com/reviews/surfshark-vpn"
+    },
+    {
+      "path": "/reviews/tp-link-archer-be550",
+      "url": "https://www.betterbuylab.com/reviews/tp-link-archer-be550"
+    },
+    {
+      "path": "/reviews/tp-link-deco-be63",
+      "url": "https://www.betterbuylab.com/reviews/tp-link-deco-be63"
+    },
+    {
+      "path": "/reviews/tp-link-deco-xe5300-xe75",
+      "url": "https://www.betterbuylab.com/reviews/tp-link-deco-xe5300-xe75"
+    },
+    {
+      "path": "/reviews/windscribe",
+      "url": "https://www.betterbuylab.com/reviews/windscribe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "repoName": "networking-vpn-resource-map",
+  "description": "Maps mesh Wi-Fi, large-home routers, VPN for streaming, budget VPN scrutiny, and network troubleshooting paths.",
+  "homepage": "https://www.betterbuylab.com/networking",
+  "topics": [
+    "mesh-wifi",
+    "router",
+    "vpn",
+    "home-network",
+    "streaming",
+    "buying-guides",
+    "product-research",
+    "betterbuylab",
+    "networking"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": true,
+  "primaryWebsitePages": [
+    "/networking",
+    "/networking/best-mesh-wifi",
+    "/networking/best-routers-large-home",
+    "/vpn",
+    "/vpn/best-vpn-streaming",
+    "/vpn/best-cheap-vpn"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources",
+    "monitor-desk-buying-resource-map"
+  ],
+  "complianceNotes": "Scoped README links only; no live price language."
+}

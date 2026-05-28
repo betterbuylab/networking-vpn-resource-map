@@ -1,0 +1,44 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/networking",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/networking"
+    },
+    {
+      "url": "https://www.betterbuylab.com/networking/best-mesh-wifi",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/networking/best-mesh-wifi"
+    },
+    {
+      "url": "https://www.betterbuylab.com/networking/best-routers-large-home",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/networking/best-routers-large-home"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vpn",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/vpn"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vpn/best-vpn-streaming",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/vpn/best-vpn-streaming"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vpn/best-cheap-vpn",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/vpn/best-cheap-vpn"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    },
+    {
+      "url": "https://github.com/betterbuylab/monitor-desk-buying-resource-map",
+      "anchor": "monitor-desk-buying-resource-map"
+    }
+  ]
+}
